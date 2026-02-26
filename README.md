@@ -128,9 +128,13 @@ An end-to-end resume screening platform that ranks candidates against job descri
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamelzamkan&layout=compact&theme=default&hide_border=true&langs_count=8" width="42%" />
 </picture>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eslamelzamkan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eslamelzamkan/Eslamelzamkan/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eslamelzamkan/Eslamelzamkan/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eslamelzamkan/Eslamelzamkan/output/dist/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
