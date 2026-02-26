@@ -30,7 +30,7 @@ class Eslam:
 - 🏆 **Competing in:** Zindi EY AI & Data Challenge
 - 🎯 **Goal:** Land a summer **Data Analytics / Data Science internship**
 - 📫 **Reach me at:** [eslamelzamkan685@gmail.com](mailto:eslamelzamkan685@gmail.com)
-- ⚡ **Fun fact:** When I'm not training models, I'm reading deep philosophy, vibing to **Sheikh Imam & Ahmed Fouad Negm** 🎵, or analyzing stock market charts 📈
+- ⚡ **Fun fact:** When I'm not training models, I'm reading **philosophy & Arabic poetry** 📖, diving into deep books, or analyzing stock market charts 📈
 
 ---
 
@@ -42,8 +42,8 @@ class Eslam:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🤖 AI / ML / Data Science
 
@@ -112,12 +112,25 @@ An end-to-end resume screening platform that ranks candidates against job descri
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eslamelzamkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslamelzamkan&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eslamelzamkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&ring_color=6C63FF&icon_color=6C63FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslamelzamkan&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Eslamelzamkan&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <img src="https://streak-stats.demolab.com?user=Eslamelzamkan&theme=default&hide_border=true" width="49%" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamelzamkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="42%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamelzamkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamelzamkan&layout=compact&theme=default&hide_border=true&langs_count=8" width="42%" />
+</picture>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eslamelzamkan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="95%" />
 
 </div>
 
@@ -138,7 +151,7 @@ An end-to-end resume screening platform that ranks candidates against job descri
 
 <div align="center">
 
-I'm always open to collaborating on **ML projects**, chatting about **AI system design**, or discussing **Sheikh Imam lyrics** over coffee ☕
+I'm always open to collaborating on **ML projects**, chatting about **AI system design**, or discussing **philosophy & Arabic poetry** over coffee ☕
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-moheyeldeen/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eslamelzamkan)
