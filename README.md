@@ -124,8 +124,8 @@ An end-to-end resume screening platform that ranks candidates against job descri
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamelzamkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslamelzamkan&layout=compact&theme=default&hide_border=true&langs_count=8" width="42%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Eslamelzamkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslamelzamkan&layout=compact&theme=default&hide_border=true&langs_count=8" width="42%" />
 </picture>
 
 <br/><br/>
