@@ -113,14 +113,16 @@ An end-to-end resume screening platform that ranks candidates against job descri
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eslamelzamkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&ring_color=6C63FF&icon_color=6C63FF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Eslamelzamkan&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Eslamelzamkan&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-  <img src="https://streak-stats.demolab.com?user=Eslamelzamkan&theme=default&hide_border=true" width="49%" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Eslamelzamkan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0d1117&amp;ring_color=6C63FF&amp;icon_color=6C63FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslamelzamkan&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true" width="49%" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Eslamelzamkan&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=6C63FF&amp;fire=FF6B6B&amp;currStreakLabel=6C63FF" />
+  <img src="https://streak-stats.demolab.com?user=Eslamelzamkan&amp;theme=default&amp;hide_border=true" width="49%" />
+</picture>
 <br/>
 
 
