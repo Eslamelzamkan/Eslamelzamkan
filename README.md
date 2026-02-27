@@ -123,7 +123,7 @@ An end-to-end resume screening platform that ranks candidates against job descri
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Eslamelzamkan/Eslamelzamkan/main/github-metrics.svg" width="90%"/>
+
 
 <br/><br/>
 
