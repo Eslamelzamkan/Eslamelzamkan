@@ -142,7 +142,7 @@ An end-to-end resume screening platform that ranks candidates against job descri
 - [x] Build and ship Talent Scout end-to-end 🎯
 - [ ] Land a summer Data Analytics / Science internship 🔥
 - [ ] Complete NeetCode 150 (DSA grind) 💪
-- [ ] Compete and rank in Zindi EY AI & Data Challenge 🏆
+- [ ] Compete and rank in EY AI & Data Challenge 🏆
 - [ ] Publish fine-tuning benchmark results 📄
 - [ ] Contribute to open-source ML projects 🌍
 
