@@ -27,7 +27,7 @@ class Eslam:
 
 - 🔭 **Currently building:** [Talent Scout](#-featured-project) — an AI-powered hiring & interview agent system
 - 🌱 **Currently learning:** Advanced DSA, scalable ML system design, and vector database architectures
-- 🏆 **Competing in:** Zindi EY AI & Data Challenge
+- 🏆 **Competing in:** EY AI & Data Challenge
 - 🎯 **Goal:** Land a summer **Data Analytics / Data Science internship**
 - 📫 **Reach me at:** [eslamelzamkan685@gmail.com](mailto:eslamelzamkan685@gmail.com)
 - ⚡ **Fun fact:** When I'm not training models, I'm reading **philosophy & Arabic poetry** 📖, diving into deep books, or analyzing stock market charts 📈
